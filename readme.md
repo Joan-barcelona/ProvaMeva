@@ -1,7 +1,7 @@
 
 # Proves Git
 
-## Conectar repositori Git a eclipse
+## Fer funcionar repositori Git a eclipse
 
 la url del repositori:
 
