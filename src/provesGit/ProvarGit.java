@@ -6,6 +6,7 @@ public class ProvarGit {
 		
 		System.out.println("Provo Git i Github amb eclipse.");
 		System.out.println("Nova linea a programa.");
+		System.out.println("Nova linea escrita desde GitHub.");
 	}
 
 }
